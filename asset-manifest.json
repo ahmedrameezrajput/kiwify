@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kiwify/static/css/main.18e8a685.css",
-    "main.js": "/kiwify/static/js/main.57763fcf.js",
+    "main.js": "/kiwify/static/js/main.52a683a2.js",
     "static/js/787.f8812e4f.chunk.js": "/kiwify/static/js/787.f8812e4f.chunk.js",
     "index.html": "/kiwify/index.html",
     "main.18e8a685.css.map": "/kiwify/static/css/main.18e8a685.css.map",
-    "main.57763fcf.js.map": "/kiwify/static/js/main.57763fcf.js.map",
+    "main.52a683a2.js.map": "/kiwify/static/js/main.52a683a2.js.map",
     "787.f8812e4f.chunk.js.map": "/kiwify/static/js/787.f8812e4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18e8a685.css",
-    "static/js/main.57763fcf.js"
+    "static/js/main.52a683a2.js"
   ]
 }
