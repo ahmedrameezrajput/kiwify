@@ -9,9 +9,9 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route path="/kiwify" element={<Login />} />
-        <Route path="/Register" element={<Register />} />
-        <Route path="/ForgotPassword" element={<ForgotPassword />} />
+        <Route exact path="/login" element={<Login />} />
+        <Route path="register" element={<Register />} />
+        <Route path="forgotpassword" element={<ForgotPassword />} />
       </Routes>
       <Login />
     </div>
